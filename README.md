@@ -1,8 +1,10 @@
-#Overview:
+# Coffee Sales Dashboard
+
+## Overview:
 
 This report analyzes coffee sales performance across multiple metrics to help drive data-informed decisions. Key areas of focus include total sales, order volume, and regional performance from 2019 to 2022. The analysis covers sales trends by coffee roast types (Arabica, Excelsa, Liberica, and Robusta), sales by country, customer purchasing patterns, and top-performing customers.
 
-#Approach:
+## Approach:
 
 •	Data Collection: Sales data from 2019 to 2022 was gathered, focusing on various dimensions like roast types, order sizes, and customer engagement (loyalty card usage).
 
